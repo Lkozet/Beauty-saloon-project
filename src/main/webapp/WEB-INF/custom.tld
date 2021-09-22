@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>2.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Example TLD</short-name>
+
+    <tag>
+        <name>TagLib</name>
+        <tag-class>com.example.demo_beauty_saloon.TagLibTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
